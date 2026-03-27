@@ -1,7 +1,9 @@
 👋 Olá, eu sou Paulinha Dos Santos Da Cruz
 
 🎓 Estudante da Aprendizagem Industrial De Programador de Sistemas de Informação contratada pela empresa Seara Alimentos.
+
 🎓 curso de Aprendizagem Industrial Apoio Metalmecânica concluido, pela empresa farenzena
+
 🎓 estudante do 1º ano da Escola de Educação Básica Governador Bornheusen 2026
 💻 Interessado em tecnologia, programação e inovação  
 
