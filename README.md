@@ -1,4 +1,4 @@
-👋 Olá, eu sou Paulinha Dos Santos Da Cruz
+# 👋 Olá, eu sou Paulinha Dos Santos Da Cruz
 
 🎓 Estudante da Aprendizagem Industrial De Programador de Sistemas de Informação contratada pela empresa Seara Alimentos.
 
