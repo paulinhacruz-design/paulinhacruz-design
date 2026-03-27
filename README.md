@@ -1,7 +1,7 @@
 👋 Olá, eu sou Paulinha Dos Santos Da Cruz
 
-🎓 Estudante da Aprendizagem Industrial De Programador de Sistemas de Informação, pela empresa JBS.
-🎓 curso de Aprendizagem Industrial Apoio Metalmecânica concluido, pela empresa farenzena.
+🎓 Estudante da Aprendizagem Industrial De Programador de Sistemas de Informação, pela empresa JBS
+🎓 curso de Aprendizagem Industrial Apoio Metalmecânica concluido, pela empresa farenzena
 🎓 EEB Governador Bornhausen - Arroio trinta
 💻 Interessado em tecnologia, programação e inovação  
 
