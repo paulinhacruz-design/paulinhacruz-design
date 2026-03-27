@@ -20,7 +20,7 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 
 Aqui estão alguns projetos que desenvolvi durante meus estudos:
 
-📌 Projeto 1 – [index.html]  
+📌 Projeto 1 – [ https://paulinhacruz-design.github.io/site-1/]  
 📌 Projeto 2 – [Nome do Projeto]  
 📌 Projeto 3 – [Nome do Projeto] 
 
