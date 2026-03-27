@@ -18,6 +18,12 @@ Meu objetivo é desenvolver habilidades tecnológicas e criar projetos que contr
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+Aqui estão alguns projetos que desenvolvi durante meus estudos:
+
+📌 Projeto 1 – [Nome do Projeto]  
+📌 Projeto 2 – [Nome do Projeto]  
+📌 Projeto 3 – [Nome do Projeto] 
+
 📚 O que estou estudando
 
 🧠 Lógica de Programação  
